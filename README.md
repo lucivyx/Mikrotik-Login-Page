@@ -7,8 +7,12 @@ Jangan lupa share dan beri bintang di repo ini
 Kalian juga bisa menyelsaikan misi hacktoberfest dsini
 
 Follow my Sosial Media :
+
 Instagram : 77prcentmtrial
+
 Linkedin : Muhammad Nabil
+
 Medium : medium.com/@muhnabil
+
 
 Terima kasih
