@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>digital clock</title>
+<link href='https://fonts,googleleapis.com/css?
+family=Orbitron' rel='stylesheet' type='text/css'>
+<script>
+function startTime(){
+var today =new Date();
+var h =today.getHours();
+var m =today.getMinutes();
+var s =today.getSeconds();
+m = checkTime(m);
+s = checkTime(s);
+document.getElementById('clock').innerHTML =
+h + ":" + m + ":" + s;
+var t =setTimeout(startTime, 500);
+
+}
+function checkTime(i){
+    if(i<10) {i = "0" + i};
+    return i;
+}
+
+</script>
+
+    <style>
+        body{
+    background: rgba(0, 0, 0, 0.974);
+
+        }
+
+        #clock{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            color: #fbfbfb;
+            font-family:cursive;
+            letter-spacing: 7px;
+            font-weight: bold;
+            font-size:10em;
+        }
+    </style>
+</head>
+<body onload="startTime()">
+    <div id ='clock'></div>
+ <h1 style="color: lightblue;">digital clock</h1>
+  
+</body>
+</html>
