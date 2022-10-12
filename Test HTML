@@ -1,0 +1,155 @@
+<!doctype html>
+<html>
+<head>
+<title>alezuna nadhif</title>
+
+</head>
+
+<body>
+<p>selamat datang nadhif</>
+<p>halo umat idn</>
+
+</body>
+</html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lawack Lu</title>
+</head>
+<body>
+  <h2>oke nama saya</h2>
+  <h1><i>Alezuna Nadhif</i></h1>
+  <h3>saya lulusan RTMI IBSc</h3>
+  <img src="https://m.facebook.com/mutiarailmu.rumahtahfizh/posts" alt="">
+  <h2>dan saya lanjut di IDN BSc</h2>
+  <img src="https://idn.sch.id/logo-idn-smp-smk/" alt="">
+  <h3>kayak gini lho html kayak situs gitu</h1>
+<h1>Udah bisa belum DECK ?</h1>
+<h4>hah masa sih belum bisa</h4>
+  <a href="bentuk.html">kalau mau</a>
+  <br><a href="heading.html">balek aja lah</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawack Lu</title>
+</head>
+<body>
+    <body>
+
+ <li><h1>Kesiapan Yang Harus Ada Di IDN
+ </h1></li>
+   <ol>
+    <li>uang pendaftaran 700 ribu</li>
+    <li>uang masuk 34 juta rupiah</li>
+    <li>tidak manja</li>
+    <li>bisa mandiri</li>
+   </ol>
+
+   <ul>
+    <li>kuat mental</li>
+    <li>jgn kena mental</li>
+    <li> bakal banyak work out</li>
+    <li>baek baek aja lah pokok nya</li>
+   </ul>
+
+   <ul type="square">
+    <li>sit up</li>
+    <li>push up</li>
+    <li>pull up</li>
+    <li>squat jump</li>
+ <br>
+    <ul type="circle">
+        <ul type="circle">
+            <li>RTMI IBSc</li>
+        <li>IDN BSc</li>
+        </ul>
+        <a href="input.html">Laghe</a><br>
+        <a href="belajar.html">ampon</a>
+
+    </ul>
+</body>
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawack Lu</title>
+</head>
+<body><h1>woi</h1>
+    <h3><i>ingat aku gak ?</i></h3>
+    <h2>ini aku lho</h2>
+    <h1><i>Alezuna Nadhif</i></h1>
+    <h3>Apa Kabar Klen ?</h3>
+    <h3>Udah bisa html blum ?</h3>
+    <h3>katanya internasional</h3>
+    <h2><i>Lawack Deck</i></h2>
+    <h3>yaudah lah lanjut aja yah jangan banyak cincong</h3>
+    <a href="belajar.html">Introduce</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawack Lu</title>
+</head>
+<body>
+    <form action="#">
+        <input type="file" name="" id="">
+    </form>
+    <select name="" id="">
+        <option value="">Ikhwan</option>
+        <option value="">Akhwat</option>
+    </select>
+    <button><a href="belajar.html">Login<a></button>
+        <a href="bentuk.html">mundur aja lah</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawack Lu</title>
+</head>
+<body>
+    <table border="3" cellspacing="3" cellpadding="10">
+    <thead>
+    <th colspan="2">Nama</th>
+    
+    <th>Kelas</th>
+    <th>Jurusan</th>
+</thead>
+<tbody>
+    <tr>
+        <th rowspan="2">Gelombang 1</th>
+        <td>Muhammad</td>
+        <td colspan="2" rowspan="2">XI RPL</td>
+        
+    </tr>
+    <tr>
+        <td>Nadhif</td>
+       
+    </tr>
+</tbody>
+
+</table>
+    
+</body>
+</html>
