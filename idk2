@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dela+Gothic+One&display=swap" rel="stylesheet">
+    <title>inishiaru D</title>
+    <style>
+        .text__thing {
+            font-family:'Bebas Neue';
+            color: black;
+            font-style: italic;
+            letter-spacing: 1rem;
+            font-size: 9rem;
+            line-height: 20%;
+            text-shadow:
+            -1px -1px 0 rgb(255, 255, 255),
+            1px -1px 0 rgb(255, 255, 255),
+            -1px 1px 0 rgb(255, 255, 255),
+            1px 1px 0 rgb(255, 255, 255);  
+        }
+        .text__thing2 {
+            font-family:'Bebas Neue';
+            color: white;
+            font-style: italic;
+            letter-spacing: 1rem;
+            font-size: 9rem;
+            position:absolute;
+            margin-top: 20.4rem;
+            
+        }
+        .container {
+            margin: 0;
+            height: calc(100vh - 20px);
+            width: calc(100vw - 20px);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+    </style>
+</head>
+<body style="background-color:black;" >
+        <div class="container">
+            <h1 class="text__thing">INITIAL D <br> INITIAL D <br> INITIAL D <br> INITIAL D<br> 
+                INITIAL D <br> INITIAL D <br> INITIAL D <br> INITIAL D <br> INITIAL D</h1>
+                <img src="https://media.giphy.com/media/42C7eGLHbijtK/giphy.gif" alt="RX7" width="30%" style="position: absolute;">
+            <h1 class="text__thing2">INITIAL D</h1>
+        </div> 
+</body>
+</html>
