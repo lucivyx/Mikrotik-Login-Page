@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="logo.jpg">
+    <link rel="stylesheet" href="bio.css">
+    <title>BIODATA</title>
+    </head>
+        <body>
+    
+    
+
+    <header >
+        <h1><div class="wkwk">BIODATA SAYA</div></h1>
+            <nav>
+                <a class="a" href="#about">About me</a>
+                <a class="b" href="#myschool">My school</a>
+                <a class="c" href="#mycontact">My contact</a>
+            </nav>
+    </header>
+    <img class="gambar" src="1.jfif" alt="">
+        <hr class="pematas">
+    <main  class="main">
+        <div class="textjalan">
+            <marquee behavior="" direction="" scrollamount="18"><H1 class="satu">Hai, Selamat datang disini :)</H1></marquee>
+        </div>
+        <hr class="pembatas">
+
+        <aside class="adaweh">
+        <div class="about" id="about">
+            <H1 class="aba">About Me</H1>
+        
+            <img class="gambarsy" src="bio.jpg" alt="">
+        <article class="textnyabout">
+           <p class="aba"> Hai, assalamualaikum warrahmatullahi wabarakatuh.
+           Perkenalkan, nama saya tubagus athalla nibras islamy, agama saya islam,
+           saya lahir di cimahi tanggal 18 september tahun 2006.
+           Sekarang saya tinggal di purwakarta, jawa barat.
+           umur saya sekarang adalah 16 tahun.
+           saya anak ke 2 dari 4 bersaudara</p>
+        </article>
+        
+        
+    </div>
+
+    <div class="myschool" id="myschool">
+        <h1 class="aca">My School</h1>
+
+        <img class="gmbrsklh" src="Logo-IDN-Biru.png" alt="">
+
+        <article>
+            <p class="aca">saya sekolah di smk idn boarding school
+                di pamijahan atau bogor, di sekolah ini ada dua jurusan
+                rpl sama tkj. Kalau rpl tuh ngecoding, kalau tkj itu jaringan
+            </p>
+        </article>
+    </div>
+    
+    <div class="mycontact" id="mycontact">
+       <h1 class="ada">My contact</h1>
+
+       <article class="mycontacttext">
+        <p class="ada">kunjungi saya di</p>
+        <div class="bulat">
+        <a href="https://www.youtube.com/channel/UC93KYWS_sZS30sSWW4XM9LA"><img class="kotak" src="bioyt.png" alt=""></a>
+        <a href="https://www.instagram.com/tbgs.n_/?hl=id"><img class="kotak" src="bioig.png" alt=""></a>
+        <a href="https://www.linkedin.com/in/tb-athalla-050b62248/"><img class="kotak" src="bioind.png" alt=""></a>
+
+       </article>
+        </div>
+    </div>
+
+    </aside>
+    
+    <nav class="end">
+        <a class="endtext" href="end.html">END ></a>
+    </nav>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+        <h1>Tubagus athalla nibras islamy</h1>
+        <h1>Purwakarta, jawa barat</h1>
+        </div>
+
+
+    </footer>
+</body>
+</html>
