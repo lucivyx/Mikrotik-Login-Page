@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="icon" type="image/x-icon" href="img/planrift logo.png">
+   <title>PLANRIFT</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Gruppo&family=Staatliches&display=swap" rel="stylesheet">
+   
+</head>
+<body style="background-color:#272832;">
+    
+        <div style=
+        "position: absolute;
+        width: 80%;
+        margin: 0 auto;
+        z-index: 2;
+        width: 90%;
+        padding: 40px;
+        text-align: left;">
+
+            <div>
+                <h2  style=
+                "font-size: medium;
+                font-weight: bold;
+                text-align: left;
+                letter-spacing: 1px;">I'm<main></main></h2>
+                <h1 style=" max-width: max-content;
+                color: white;
+                font-size: 4rem;  
+                letter-spacing: 2px;
+                font-weight: bold;
+                text-align: left;
+                margin-top:-10px;
+                margin-bottom: -10px;">PlanRift</h1>
+                <div style="position:center;
+                width: 103px;
+                height: 7px;
+                margin-bottom: 0.5rem;
+                background: white;
+                border-radius: 0px;"></div>
+                <p style="font-family:Gruppo;font-weight:bold; font-size: 1.3rem; margin-bottom: 1rem;">A young multi-talent freelancer who can easily edit videos, code, 
+                    <br>and design quality website creating a website will no longer be an issue.</p>
+            </div>
+        </div>
+    </header>
+</body>
+</html>
